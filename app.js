@@ -7,7 +7,7 @@ const playToSelect = document.querySelector('#playto');
 
 let p1Score = 0;
 let p2Score =0;
-let winningScore = 10;
+let winningScore = 5;
 let isGameOver = false;
 
 p1Button.addEventListener('click',function () {
